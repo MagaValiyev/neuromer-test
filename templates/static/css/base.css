@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    color: rgb(39,81,163);
+}
+.list-link p{
+    line-height: 13px;
+}
+footer p, h6, div{
+    color: rgb(39,81,163);
+}
+.fa-brands{
+    height: 60px;
+
+}
